@@ -1,0 +1,103 @@
+[
+    {
+        "chef_id":1,
+        "chef_img":"",
+        "recipes": [
+            {
+                "recipe_id": 1,
+                "recipe_name": "RAMEN WITH BEEF AND VEGETABLES",
+                "recipe_img": "https://i2.wp.com/www.spicetheplate.com/wp-content/uploads/2018/05/Deluxe-Instant-Ramen-With-Beef-and-Vegetables-3.jpg?w=780&ssl=1",
+                "rating": 4.8,
+                "ingredients": [
+                    "prawns",
+                    "lemongrass",
+                    "galangal",
+                    "kaffir lime leaves",
+                    "chili paste",
+                    "fish sauce"
+                ],
+                "cooking_method": [
+                    "Bring water to boil in a pot",
+                    "Add lemongrass, galangal and kaffir lime leaves",
+                    "Add prawns, chili paste, and fish sauce",
+                    "Simmer for 2 minutes",
+                    "Add lime juice and cilantro",
+                    "Serve hot"
+                ]
+            },
+            {
+                "recipe_id": 2,
+                "recipe_name": "Pork Rib Rice Bowl",
+                "recipe_img": "https://i2.wp.com/www.spicetheplate.com/wp-content/uploads/2018/03/Chinese-Ribs-and-Rice-16.jpg?w=780&ssl=1",
+                "rating": 4.0,
+                "ingredients": [
+                    "green papaya",
+                    "cherry tomatoes",
+                    "long beans",
+                    "garlic",
+                    "chilies",
+                    "palm sugar",
+                    "fish sauce",
+                    "lime juice",
+                    "peanuts"
+                ],
+                "cooking_method": [
+                    "Peel and shred the green papaya",
+                    "Add cherry tomatoes, long beans, garlic and chilies",
+                    "Pound together the palm sugar, fish sauce, lime juice, and peanuts to make a dressing",
+                    "Mix the shredded papaya and vegetables with the dressing",
+                    "Serve with sticky rice"
+                ]
+            },
+            {
+                "recipe_id": 3,
+                "recipe_name": "Gaeng Daeng",
+                "recipe_img": "",
+                "rating": 3.6,
+                "ingredients": [
+                    "chicken",
+                    "coconut milk",
+                    "red curry paste",
+                    "kaffir lime leaves",
+                    "fish sauce",
+                    "palm sugar",
+                    "bamboo shoots",
+                    "red chili"
+                ],
+                "cooking_method": [
+                    "Heat the coconut milk in a pot",
+                    "Add the red curry paste and stir until fragrant",
+                    "Add chicken, kaffir lime leaves, fish sauce and palm sugar",
+                    "Simmer until chicken is cooked through",
+                    "Add bamboo shoots and sliced red chili",
+                    "Serve hot with steamed rice"
+                ]
+            },
+            {
+                "recipe_id": 4,
+                "recipe_name": "Pad Kra Pao",
+                "recipe_img": "",
+                "rating": 3.8,
+                "ingredients": [
+                    "minced pork",
+                    "basil leaves",
+                    "garlic",
+                    "chilies",
+                    "soy sauce",
+                    "oyster sauce",
+                    "palm sugar",
+                    "fish sauce",
+                    "long beans"
+                ],
+                "cooking_method": [
+                    "Heat oil in a pan and fry garlic and chilies until fragrant",
+                    "Add minced pork and stir-fry until cooked",
+                    "Add soy sauce, oyster sauce, palm sugar and fish sauce",
+                    "Stir-fry until sauce is absorbed",
+                    "Add long beans and basil leaves",
+                    "Serve hot with steamed rice"
+                ]
+            }
+        ]
+    }
+]
