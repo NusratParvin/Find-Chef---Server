@@ -2,7 +2,7 @@
     {
         "id":1,
         "chef_name":"Saraann Staterfield",
-        "chef_img":"http://dummyimage.com/159x100.png/cc0000/ffffff",
+        "chef_img":"https://images.pexels.com/photos/8879653/pexels-photo-8879653.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
         "experience":3,
         "recipes":87,
         "likes":40
@@ -10,22 +10,23 @@
 {
     "id":2,
     "chef_name":"Clarie McGinn",
-    "chef_img":"http://dummyimage.com/181x100.png/ff4444/ffffff",
-    "experience":28,
+    "chef_img":"https://images.pexels.com/photos/5907919/pexels-photo-5907919.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "experience":8,
     "recipes":10,
     "likes":97
 },
 {
     "id":3,
     "chef_name":"Mervin Armistead",
-    "chef_img":"http://dummyimage.com/199x100.png/5fa2dd/ffffff",
-    "experience":38,
+    "chef_img":"https://images.pexels.com/photos/8092562/pexels-photo-8092562.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "experience":8,
     "recipes":76,
-    "likes":55},
+    "likes":55
+},
 {
     "id":4,
     "chef_name":"Mignon Zorzin",
-    "chef_img":"http://dummyimage.com/198x100.png/dddddd/000000",
+    "chef_img":"https://images.pexels.com/photos/887827/pexels-photo-887827.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     "experience":19,
     "recipes":54,
     "likes":100
@@ -33,22 +34,23 @@
 {
     "id":5,
     "chef_name":"Theo Poynzer",
-    "chef_img":"http://dummyimage.com/241x100.png/cc0000/ffffff",
-    "experience":33,
+    "chef_img":"https://images.pexels.com/photos/4252136/pexels-photo-4252136.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "experience":13,
     "recipes":28,
     "likes":34
 },
 {
-    "id":6,"chef_name":"Orlando Charge",
-    "chef_img":"http://dummyimage.com/100x100.png/cc0000/ffffff",
-    "experience":58,
+    "id":6,
+    "chef_name":"Orlando Charge",
+    "chef_img":"https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "experience":5,
     "recipes":79,
     "likes":19
 },
 {
     "id":7,
     "chef_name":"Betty Perry",
-    "chef_img":"http://dummyimage.com/235x100.png/cc0000/ffffff",
+    "chef_img":"https://images.pexels.com/photos/3785693/pexels-photo-3785693.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     "experience":28,
     "recipes":4,
     "likes":47
@@ -56,7 +58,7 @@
 {
     "id":8,
     "chef_name":"Noland Linn",
-    "chef_img":"http://dummyimage.com/227x100.png/5fa2dd/ffffff",
+    "chef_img":"https://images.pexels.com/photos/3351927/pexels-photo-3351927.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     "experience":15,
     "recipes":50,
     "likes":41
@@ -64,7 +66,7 @@
 {
     "id":9,
     "chef_name":"Shannon Lambarton",
-    "chef_img":"http://dummyimage.com/208x100.png/ff4444/ffffff",
+    "chef_img":"https://images.pexels.com/photos/4057693/pexels-photo-4057693.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     "experience":40,
     "recipes":3,
     "likes":15
@@ -72,7 +74,7 @@
 {
     "id":10,
     "chef_name":"Roslyn Tearle",
-    "chef_img":"http://dummyimage.com/119x100.png/dddddd/000000",
+    "chef_img":"https://images.pexels.com/photos/5907919/pexels-photo-5907919.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     "experience":36,
     "recipes":83,
     "likes":70

@@ -10,6 +10,7 @@
   "license": "ISC",
   "description": "��#\u0000 \u0000b\u00007\u0000a\u00001\u00000\u0000-\u0000c\u0000h\u0000e\u0000f\u0000-\u0000r\u0000e\u0000c\u0000i\u0000p\u0000e\u0000-\u0000h\u0000u\u0000n\u0000t\u0000e\u0000r\u0000-\u0000s\u0000e\u0000r\u0000v\u0000e\u0000r\u0000-\u0000s\u0000i\u0000d\u0000e\u0000-\u0000N\u0000u\u0000s\u0000r\u0000a\u0000t\u0000P\u0000a\u0000r\u0000v\u0000i\u0000n\u0000\r\u0000 \u0000",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.18.2"
   },
   "repository": {
